@@ -14,7 +14,7 @@ with open("config.yaml") as f:
 
 # Get latest blog post
 blog_rss = feedparser.parse("https://p-v.pages.dev/blog/rss.xml")
-config["latest_blog_posts"] = blog_rss["entries"][0]
+config["latest_blog_posts"] = blog_rss["entries"][0:5]
 for post in config["latest_blog_posts"]:
     post["published"] = datetime.strptime(post["published"], "%a, %d %b %Y %H:%M:%S %z")
 
