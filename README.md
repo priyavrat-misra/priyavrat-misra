@@ -1,5 +1,5 @@
-[![website](https://img.shields.io/badge/p--v.pages.dev-grey?logo=rss)](https://p-v.pages.dev)
-[![profile views](https://komarev.com/ghpvc/?username=priyavrat-misra)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![website](https://img.shields.io/badge/priyavr.at-grey?logo=rss)](https://priyavr.at)
+[![profile views](https://komarev.com/ghpvc/?username=priyavrat-misra)](https://priyavr.at)
 ## Latest blog posts
 
 - [Built my first PC](https://priyavr.at/blog/first-pc-build-journey/) - *Wed, 20 Jul 2022*
